@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**Ma11111ma/Ma11111ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi there! I'm Mai 👋</h1>
 
 <p align="center">
@@ -16,7 +11,7 @@ I'm a beginner full-stack engineer with a background in web direction and UX-foc
 I’m currently learning modern web development while building practical, user-friendly applications.
 
 - 🌱 Learning: **Next.js, React, FastAPI, PostgreSQL, Prisma, Docker**
-- 🎨 Interests: **UI/UX design, warm and friendly interfaces**
+- 🎨 Interests: **UI/UX design, warm and friendly interfaces, AI agent**
 - 🐾 Dogs: Absolutely love them  
 - 🔧 Strength: I stay persistent and committed until the goal is reached  
 - 💼 Career shift from **Web Director → Full-stack Engineer**
@@ -66,7 +61,7 @@ I worked mainly on:
 
 ## 📫 Connect With Me
 - Portfolio: *(your portfolio URL when ready)*  
-- LinkedIn: *(optional)*  
+- 
 
 ---
 
