@@ -119,7 +119,9 @@ I worked mainly on:
 - UX improvements  
 - Frontend architecture  
 
-👉 *[Project coming soon / or add link here]*
+## 🎨 Presentation Slide
+[![Canva](https://img.shields.io/badge/Canva-Slide-00C4CC?style=flat&logo=canva)]([https://www.canva.com/design/XXXX/view](https://www.canva.com/design/DAG35lSrA_M/13MmJ2yYEvxiIA4cguuRlg/watch))
+
 
 ---
 
