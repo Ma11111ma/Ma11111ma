@@ -43,7 +43,7 @@ I’m currently learning modern web development while building practical, user-f
 ## 🐕 Featured Project — *Hinapet*
 A pet-friendly evacuation shelter map app built with:
 
-- 🗺️ **Next.js + Google Maps API (frontend)**  
+- 🗺️ **Next.js + Google Maps API + Firebase + Stripe (frontend)**  
 - ⚡ **FastAPI + PostgreSQL + PostGIS (backend)**  
 - ☁️ **Railway / Supabase / Vercel deployment**  
 - 🎨 Warm, friendly design inspired by pets and families  
