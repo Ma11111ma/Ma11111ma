@@ -120,8 +120,11 @@ I worked mainly on:
 - Frontend architecture  
 
 ## 🎨 Presentation Slide
-[![Canva](https://img.shields.io/badge/Canva-Slide-00C4CC?style=flat&logo=canva)]([https://www.canva.com/design/DAG35lSrA_M/13MmJ2yYEvxiIA4cguuRlg/watch])
-[click here!](https://www.canva.com/design/DAG35lSrA_M/13MmJ2yYEvxiIA4cguuRlg/watch)
+
+Here’s my portfolio presentation created with Canva.  
+This slide summarizes my background, skills, and recent projects including **Hinapet**.
+
+[![Canva Slide](https://img.shields.io/badge/Canva-Slide-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/design/DAG35lSrA_M/13MmJ2yYEvxiIA4cguuRlg/view)
 
 ---
 
