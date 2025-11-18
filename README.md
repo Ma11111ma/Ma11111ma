@@ -137,3 +137,51 @@ This slide summarizes my background, skills, and recent projects including **Hin
 <p align="center">
   Thanks for stopping by! Feel free to check out my repositories 🐶✨
 </p>
+
+---
+
+# こんにちは、Maiです 👋
+
+元Webディレクターとしての経験を活かしながら、  
+現在はフルスタックエンジニアとして日々学習と開発に取り組んでいます。  
+デザインやユーザー体験を大切にしつつ、温かみのあるプロダクトづくりを目指しています。
+
+## 👩‍💻 自己紹介
+- 🌱 学習中: **Next.js / React / FastAPI / PostgreSQL / Prisma / Docker**
+- 🎨 興味: **UI/UXデザイン、温かみのあるインターフェース、AIエージェント**
+- 🐾 犬が大好き  
+- 🔧 強み: 粘り強くやり遂げる継続力  
+- 💼 キャリア: **Webディレクター → フルスタックエンジニア**
+
+---
+
+## 🐕 注目プロジェクト — *Hinapet*
+ペットと避難できる避難所を地図上で探せる防災アプリです。
+
+- 🗺️ **Next.js + Google Maps API + Firebase + Stripe（フロントエンド）**  
+- ⚡ **FastAPI + PostgreSQL + PostGIS（バックエンド）**  
+- ☁️ **Railway / Supabase / Vercel でデプロイ**  
+- 🎨 ペットと家族をイメージした、温かみのあるUIデザイン
+
+主に担当した部分:
+- 現在地取得・地図表示などの位置情報機能  
+- Google Maps周りの実装全般  
+- 避難所フィルター、ルート検索  
+- UI/UX の改善  
+- フロントエンドアーキテクチャ設計
+
+---
+
+## 🎨 発表スライド（Canva）
+Canvaで作成したアプリ発表用のスライドです。  
+地図検索アプリ「ひなペット」の開発内容をまとめています。
+パネリストを招いてプレゼンテーションをする際に使用しました。
+
+[![スライドを見る](https://img.shields.io/badge/Canva-スライドを見る-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/design/DAG35lSrA_M/13MmJ2yYEvxiIA4cguuRlg/view)
+
+---
+
+## 📫 お問い合わせ
+- ポートフォリオ: **（準備中 or URLを追加）**
+
+お気軽にご覧ください
