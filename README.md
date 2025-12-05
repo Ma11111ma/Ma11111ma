@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Mai 👋</h1>
+<h1 align="center">Hi there! I'm Mai 👋🎵</h1>
 
 <p align="center">
   Beginner Full-stack Engineer / Former Web Director / Design & Dog Lover 🐶✨  
